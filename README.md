@@ -1,5 +1,7 @@
 # antd-vue3
-<<<<<<< HEAD
+
+> 这是一个用于零基础 学习 antd 和 vue3的学习项目
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -45,6 +47,4 @@ npm run build
 ```sh
 npm run lint
 ```
-=======
-这是一个用于零基础 学习 antd 和 vue3的学习项目
->>>>>>> 3d3f779b9924b271c74f1b10ee850e3f10efc9c5
+
